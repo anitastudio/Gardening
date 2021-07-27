@@ -8,8 +8,8 @@ html {
 
 body {
   font-family: 'Roboto', sans-serif;
-  font-size: 1em;
-  margin: 0 20%;
+  font-size: 100%em;
+  margin: 0 15%;
   background: url(images/tools_shadow.png) no-repeat center 10px fixed;
 }
 /* header style */

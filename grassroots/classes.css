@@ -9,7 +9,7 @@ html {
 body {
   font-family: 'Roboto', sans-serif;
   font-size: 100%;
-  margin: 0 20%;
+  margin: 0 15%;
   background: url(images/tools_shadow.png) no-repeat center 10px fixed;
 }
 /* header style */
