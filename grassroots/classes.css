@@ -10,7 +10,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 100%;
   margin: 0 15%;
-  background: url(images/tools_shadow.png) no-repeat center 20px fixed;
+  background: url(images/tools_shadow.png) no-repeat center 5px fixed;
 }
 /* header style */
 header {
