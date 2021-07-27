@@ -1,0 +1,103 @@
+@charset "UTF-8";
+html {
+  box-sizing: border-box;
+}
+* {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 100%;
+  margin: 0 20%;
+  background: url(images/tools_shadow.png) no-repeat center 10px fixed;
+}
+/* header style */
+header {
+  flex: 1 1 auto;
+  text-align: left;
+  padding: 3em 1em 2em 1em;
+  max-width: 100%;
+  background: url(images/flower.png) 15% bottom no-repeat;
+  background-color: #9ba398;
+}
+header p {
+font-family: 'Barrio', cursive;
+font-size: 5em;
+text-align: left;
+color: #9df77c;
+margin: 0 20%;
+}
+h2 {
+  text-align: inherit;
+}
+/* link styles */
+a {
+  text-decoration: none;
+  border
+}
+a:link {
+  color: #9ba398;
+}
+a:visited {
+  color: #c84428;
+}
+a:focus {
+  color: #c84428;
+}
+a:hover {
+  color: #c84428;
+  }
+a:active {
+  color: #c84428;
+}
+/* nav styles */
+nav {
+  box-sizing: border-box;
+  padding: 2em 2em 2em 2em;
+  background-color:  #9df77c;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  color: #9ba398;
+}
+/* main style*/
+main p {
+  box-sizing: border-box;
+  width: 700px;
+  text-align: left;
+}
+main img {
+  float: left;
+  padding-right: 1%;
+}
+.education {
+}
+.herbs {
+  box-sizing: border-box;
+}
+dt {
+  font-weight: bold;
+}
+p {
+  box-sizing: border-box;
+  text-align: left;
+  padding-right: 10%;
+}
+figure {
+    box-sizing: border-box;
+    font-family: 'Barrio', cursive;
+    text-align: center;
+    font-size: 2.175em;
+    color: #9df77c;
+  }
+footer {
+    box-sizing: content-box;
+    padding-top: 5%;
+    padding-bottom: 20%;
+}
+footer img {
+  width: 30px;
+  height: 30px;
+  margin-left: .9em;
+  margin-right: .5em;
+}
